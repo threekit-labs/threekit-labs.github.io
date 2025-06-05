@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Dark Slate Stone Tile",
+    "price": 0,
+    "description": "DARK SLATE STONE TILE",
+    "type": "Wall Finishes",
+    "labels": [
+      "daattribute: ZZ_WALL"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/assets/thumbnail/3c8a0518-6a6e-47d6-982f-195e529bc0a9?orgId=46deed25-0f34-4f72-9ad5-7c91df246095",
+    "attributes": {
+      "Wall Finishes": "0d3f5194-1b47-4cb7-a106-dd02466980d2"
+    },
+    "family": ""
+  },
+  {
+    "name": "Tan Onyx Stone Tile",
+    "price": 0,
+    "description": "TAN ONYX STONE TILE",
+    "type": "Wall Finishes",
+    "labels": [
+      "daattribute: ZZ_WALL"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/assets/thumbnail/f7d1ca55-403e-4097-b635-59fa05ed1330?orgId=46deed25-0f34-4f72-9ad5-7c91df246095",
+    "attributes": {
+      "Wall Finishes": "1501bda1-9dc8-4597-86db-e7911eca1ee2"
+    },
+    "family": ""
+  },
+  {
+    "name": "Stainless Steel Blue Paint",
+    "price": 0,
+    "description": "STAINLESS STEEL BLUE PAINT",
+    "type": "Wall Finishes",
+    "labels": [
+      "daattribute: ZZ_WALL"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/bdb214a2-74e4-4cc0-a8aa-8782a035aff7/content",
+    "attributes": {
+      "Wall Finishes": "f122a776-d103-4cde-8bb8-9f5d18e3af6f"
+    },
+    "family": ""
+  },
+  {
+    "name": "Antique Silver Paint",
+    "price": 0,
+    "description": "ANTIQUE SILVER PAINT",
+    "type": "Wall Finishes",
+    "labels": [
+      "daattribute: ZZ_WALL"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/f2d70c4d-8b21-4570-8af9-0ee707264a20/content",
+    "attributes": {
+      "Wall Finishes": "0da5967b-8ac5-4911-8eb7-6098dbbd6f24"
+    },
+    "family": ""
+  },
+  {
+    "name": "Dark Gray Paint",
+    "price": 0,
+    "description": "DARK GRAY PAINT",
+    "type": "Wall Finishes",
+    "labels": [
+      "daattribute: ZZ_WALL"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/040a2764-e623-4f72-818e-ed2fac9845b4/content",
+    "attributes": {
+      "Wall Finishes": "de84f577-991b-4d2b-9075-eb44d685ae2c"
+    },
+    "family": ""
+  },
+  {
+    "name": "Small White Tile",
+    "price": 0,
+    "description": "SMALL WHITE TILE",
+    "type": "Wall Finishes",
+    "labels": [
+      "daattribute: ZZ_WALL"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/assets/thumbnail/5ce96974-f04e-4edd-b49b-fde2424746a3?orgId=46deed25-0f34-4f72-9ad5-7c91df246095",
+    "attributes": {
+      "Wall Finishes": "4899487d-c0e1-4969-8851-a60920b073bd"
+    },
+    "family": ""
+  },
+  {
+    "name": "Delicate White Paint",
+    "price": 0,
+    "description": "DELICATE WHITE PAINT",
+    "type": "Wall Finishes",
+    "labels": [
+      "daattribute: ZZ_WALL"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/fbbdaf7e-361c-4111-a3dc-f60193a77111/content",
+    "attributes": {
+      "Wall Finishes": "6b9d19c4-3c02-4c74-814b-5d35b18a946b"
+    },
+    "family": ""
+  },
+  {
+    "name": "Graphite Tile",
+    "price": 0,
+    "description": "GRAPHITE TILE",
+    "type": "Wall Finishes",
+    "labels": [
+      "daattribute: ZZ_WALL"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/assets/thumbnail/4ecff00b-8626-4b74-a441-086111fe3686?orgId=46deed25-0f34-4f72-9ad5-7c91df246095",
+    "attributes": {
+      "Wall Finishes": "a6bcc6dc-bc24-4cb8-802f-411fde836563"
+    },
+    "family": ""
+  }
+]

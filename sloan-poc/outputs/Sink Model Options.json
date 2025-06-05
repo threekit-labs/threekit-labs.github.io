@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Gradient",
+    "price": 0,
+    "description": "A strong, massive presence with a dramatically angled basin.",
+    "type": "Sink Model",
+    "labels": [
+      "daattribute: ZZ_SINK_MODEL"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/4c3bcddc-4288-43a2-8cac-9e2960f62e31/content",
+    "attributes": {
+      "Sink Model": "8a2face2-ddf7-4c26-a25f-657180f1150a"
+    },
+    "family": ""
+  },
+  {
+    "name": "Weir Deck",
+    "price": 0,
+    "description": "The basin ascends to the very front edge and includes a stainless steel grate.",
+    "type": "Sink Model",
+    "labels": [
+      "daattribute: ZZ_SINK_MODEL"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/a1e37f44-64bc-487b-adf5-6e9a9f1cef83/content",
+    "attributes": {
+      "Sink Model": "08273634-ca10-4626-b1bc-1e75acffb18e"
+    },
+    "family": ""
+  },
+  {
+    "name": "AER-DEC®",
+    "price": 0,
+    "description": "AD",
+    "type": "Sink Model",
+    "labels": [
+      "daattribute: ZZ_SINK_MODEL"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/609089ed-9436-4574-a670-4caf2e4876c7/content",
+    "attributes": {
+      "Sink Model": "5d4bea2b-6aa9-40ba-ae04-42fd4f07d0df"
+    },
+    "family": ""
+  }
+]

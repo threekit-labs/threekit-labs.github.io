@@ -1,0 +1,122 @@
+[
+  {
+    "name": "ML - 4 Edge",
+    "price": 0,
+    "description": "",
+    "type": "Mirror Type",
+    "labels": [
+      "daattribute: ZZ_MIRROR_TYPE",
+      "options: no"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/467ba34c-96e1-4fe3-83ec-e897054545c9/content",
+    "attributes": {
+      "Mirror Type": "aaf798ea-15f0-45e0-851b-08da4a23d979"
+    },
+    "family": "Sloan LED Mirror"
+  },
+  {
+    "name": "ML - 4 Inset",
+    "price": 0,
+    "description": "",
+    "type": "Mirror Type",
+    "labels": [
+      "daattribute: ZZ_MIRROR_TYPE",
+      "options: no"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/312da313-495f-4d71-8fd7-8ca8807913ce/content",
+    "attributes": {
+      "Mirror Type": "bb5946cc-1eba-4ca0-bda5-89059c8573fd"
+    },
+    "family": "Sloan LED Mirror"
+  },
+  {
+    "name": "ML - 2 Inset",
+    "price": 0,
+    "description": "",
+    "type": "Mirror Type",
+    "labels": [
+      "daattribute: ZZ_MIRROR_TYPE",
+      "options: no"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/579f2397-4641-440f-a8ab-a1448eb97e21/content",
+    "attributes": {
+      "Mirror Type": "278221d0-f008-448f-bdf7-b808dcaf8393"
+    },
+    "family": "Sloan LED Mirror"
+  },
+  {
+    "name": "ML - 2 Edge",
+    "price": 0,
+    "description": "",
+    "type": "Mirror Type",
+    "labels": [
+      "daattribute: ZZ_MIRROR_TYPE",
+      "options: no"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/5ca55c83-9c81-46a0-86dc-6e8345186ff6/content",
+    "attributes": {
+      "Mirror Type": "b17efce2-12a1-4b8f-8d83-c786b9a22747"
+    },
+    "family": "Sloan LED Mirror"
+  },
+  {
+    "name": "ML - Back Lit",
+    "price": 0,
+    "description": "",
+    "type": "Mirror Type",
+    "labels": [
+      "daattribute: ZZ_MIRROR_TYPE",
+      "options: no"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/4ea673e7-0f94-4a9f-94b3-2fb7b5e8ab2c/content",
+    "attributes": {
+      "Mirror Type": "15fb79a3-0bcb-4f41-b3d6-7c5d4cdd3661"
+    },
+    "family": "Sloan LED Mirror"
+  },
+  {
+    "name": "MF - Thin Frame",
+    "price": 0,
+    "description": "",
+    "type": "Mirror Type",
+    "labels": [
+      "daattribute: ZZ_MIRROR_TYPE",
+      "options: yes"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/97b33def-1660-4a01-9f8e-3f0cce1b76f0/content",
+    "attributes": {
+      "Mirror Type": "4fbde0da-1914-41a3-a717-4a45cebc2d40"
+    },
+    "family": "Sloan Framed Mirror"
+  },
+  {
+    "name": "MF - Wide Frame",
+    "price": 0,
+    "description": "",
+    "type": "Mirror Type",
+    "labels": [
+      "daattribute: ZZ_MIRROR_TYPE",
+      "options: yes"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/40d6e575-b45b-4986-86f2-ab74be91d513/content",
+    "attributes": {
+      "Mirror Type": "c22edcc4-0f5d-40eb-8de2-ee98004f3aa2"
+    },
+    "family": "Sloan Framed Mirror"
+  },
+  {
+    "name": "MF - Angle Frame",
+    "price": 0,
+    "description": "",
+    "type": "Mirror Type",
+    "labels": [
+      "daattribute: ZZ_MIRROR_TYPE",
+      "options: yes"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/c2a9c2e8-8345-4c37-aea4-fa572f995e5f/content",
+    "attributes": {
+      "Mirror Type": "6077a6d4-6f52-4145-a726-91113f989b11"
+    },
+    "family": "Sloan Framed Mirror"
+  }
+]

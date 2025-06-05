@@ -1,0 +1,312 @@
+[
+  {
+    "name": "EHD-510A BN",
+    "price": 3230,
+    "description": "EHD-510A BN",
+    "type": "Hand Dryer",
+    "labels": [
+      "daattribute: ZZ_DRYER_MODEL",
+      "finish: Brushed Nickel",
+      "materialnum: 3366081",
+      "finishingcatalogid: 3ef6ac26-05c6-41eb-a6f4-d590751e03d1",
+      "collection: BASYS",
+      "powertype: Plug-in"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/5d7019b5-d294-48f9-a2e1-af58795c1fa0/content",
+    "attributes": {
+      "Hand Dryer Model": "26a10933-7890-4dac-b279-d92ec9bcc3ca",
+      "Hand Dryer Finish": "3ef6ac26-05c6-41eb-a6f4-d590751e03d1"
+    },
+    "family": "EHD-510"
+  },
+  {
+    "name": "EHD-510A PB",
+    "price": 3230,
+    "description": "EHD-510A PB",
+    "type": "Hand Dryer",
+    "labels": [
+      "daattribute: ZZ_DRYER_MODEL",
+      "finish: Polished Brass",
+      "materialnum: 3366083",
+      "finishingcatalogid: e8df26f3-52da-48bd-a5fe-d9673799f6fa",
+      "collection: BASYS",
+      "powertype: Plug-in"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/fc310d0f-1c23-425f-ab3b-1ba6c8a56591/content",
+    "attributes": {
+      "Hand Dryer Model": "26a10933-7890-4dac-b279-d92ec9bcc3ca",
+      "Hand Dryer Finish": "e8df26f3-52da-48bd-a5fe-d9673799f6fa"
+    },
+    "family": "EHD-510"
+  },
+  {
+    "name": "EHD-510A GR",
+    "price": 3230,
+    "description": "EHD-510A GR",
+    "type": "Hand Dryer",
+    "labels": [
+      "daattribute: ZZ_DRYER_MODEL",
+      "finish: Graphite",
+      "materialnum: 3366084",
+      "finishingcatalogid: 39f3383c-3d0c-41d3-b675-ca7c680c2e31",
+      "collection: BASYS",
+      "powertype: Plug-in"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/5febc0fa-1fe5-437c-a51c-158b27352066/content",
+    "attributes": {
+      "Hand Dryer Model": "26a10933-7890-4dac-b279-d92ec9bcc3ca",
+      "Hand Dryer Finish": "39f3383c-3d0c-41d3-b675-ca7c680c2e31"
+    },
+    "family": "EHD-510"
+  },
+  {
+    "name": "EHD-510A SF",
+    "price": 3230,
+    "description": "EHD-510A SF",
+    "type": "Hand Dryer",
+    "labels": [
+      "daattribute: ZZ_DRYER_MODEL",
+      "finish: Brushed Stainless",
+      "materialnum: 3366082",
+      "finishingcatalogid: c095c9a6-5884-43ae-8fb8-2dae9af9d0f2",
+      "collection: BASYS",
+      "powertype: Plug-in"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/aa40a15e-1112-46be-81fe-51290da82cb4/content",
+    "attributes": {
+      "Hand Dryer Model": "26a10933-7890-4dac-b279-d92ec9bcc3ca",
+      "Hand Dryer Finish": "c095c9a6-5884-43ae-8fb8-2dae9af9d0f2"
+    },
+    "family": "EHD-510"
+  },
+  {
+    "name": "EHD-510A CP",
+    "price": 2485,
+    "description": "EHD-510A CP",
+    "type": "Hand Dryer",
+    "labels": [
+      "daattribute: ZZ_DRYER_MODEL",
+      "finish: Chrome Plated",
+      "materialnum: 3366085",
+      "finishingcatalogid: e0cc4fc1-d3cd-4452-bae0-e05aae85356e",
+      "collection: BASYS",
+      "powertype: Plug-in"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/4a8132b0-4d29-4f88-bbdf-dbb20cb94236/content",
+    "attributes": {
+      "Hand Dryer Model": "26a10933-7890-4dac-b279-d92ec9bcc3ca",
+      "Hand Dryer Finish": "e0cc4fc1-d3cd-4452-bae0-e05aae85356e"
+    },
+    "family": "EHD-510"
+  },
+  {
+    "name": "EHD-410A BN",
+    "price": 3230,
+    "description": "EHD-410A BN",
+    "type": "Hand Dryer",
+    "labels": [
+      "daattribute: ZZ_DRYER_MODEL",
+      "finish: Brushed Nickel",
+      "materialnum: 33660018",
+      "finishingcatalogid: 3ef6ac26-05c6-41eb-a6f4-d590751e03d1",
+      "collection: Clark St",
+      "powertype: Plug-in",
+      "keywords: clark"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/e9932912-a935-437c-a0d2-62e0d8d3c97f/content",
+    "attributes": {
+      "Hand Dryer Model": "2be6691a-a220-4b2b-b6a1-494ef3d0c3fc",
+      "Hand Dryer Finish": "3ef6ac26-05c6-41eb-a6f4-d590751e03d1"
+    },
+    "family": "EHD-410"
+  },
+  {
+    "name": "EHD-410A PB",
+    "price": 3230,
+    "description": "EHD-410A PB",
+    "type": "Hand Dryer",
+    "labels": [
+      "daattribute: ZZ_DRYER_MODEL",
+      "finish: Polished Brass",
+      "materialnum: 33660022",
+      "finishingcatalogid: e8df26f3-52da-48bd-a5fe-d9673799f6fa",
+      "collection: Clark St",
+      "powertype: Plug-in",
+      "keywords: clark"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/65cd34fd-4045-4bbd-95e6-4f9cc7e4022e/content",
+    "attributes": {
+      "Hand Dryer Model": "2be6691a-a220-4b2b-b6a1-494ef3d0c3fc",
+      "Hand Dryer Finish": "e8df26f3-52da-48bd-a5fe-d9673799f6fa"
+    },
+    "family": "EHD-410"
+  },
+  {
+    "name": "EHD-410A GR",
+    "price": 3230,
+    "description": "EHD-410A GR",
+    "type": "Hand Dryer",
+    "labels": [
+      "daattribute: ZZ_DRYER_MODEL",
+      "finish: Graphite",
+      "materialnum: 33660019",
+      "finishingcatalogid: 39f3383c-3d0c-41d3-b675-ca7c680c2e31",
+      "collection: Clark St",
+      "powertype: Plug-in",
+      "keywords: clark"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/a16c8800-5ca7-4cd8-b01f-7f1bc7986cc5/content",
+    "attributes": {
+      "Hand Dryer Model": "2be6691a-a220-4b2b-b6a1-494ef3d0c3fc",
+      "Hand Dryer Finish": "39f3383c-3d0c-41d3-b675-ca7c680c2e31"
+    },
+    "family": "EHD-410"
+  },
+  {
+    "name": "EHD-410A SF",
+    "price": 3230,
+    "description": "EHD-410A SF",
+    "type": "Hand Dryer",
+    "labels": [
+      "daattribute: ZZ_DRYER_MODEL",
+      "finish: Brushed Stainless",
+      "materialnum: 33660021",
+      "finishingcatalogid: c095c9a6-5884-43ae-8fb8-2dae9af9d0f2",
+      "collection: Clark St",
+      "powertype: Plug-in",
+      "keywords: clark"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/701cadb2-2a4a-4fdf-959e-10490ae2cb30/content",
+    "attributes": {
+      "Hand Dryer Model": "2be6691a-a220-4b2b-b6a1-494ef3d0c3fc",
+      "Hand Dryer Finish": "c095c9a6-5884-43ae-8fb8-2dae9af9d0f2"
+    },
+    "family": "EHD-410"
+  },
+  {
+    "name": "EHD-410A CP",
+    "price": 2485,
+    "description": "EHD-410A CP",
+    "type": "Hand Dryer",
+    "labels": [
+      "daattribute: ZZ_DRYER_MODEL",
+      "finish: Chrome Plated",
+      "materialnum: 33660017",
+      "finishingcatalogid: e0cc4fc1-d3cd-4452-bae0-e05aae85356e",
+      "collection: Clark St",
+      "powertype: Plug-in",
+      "keywords: clark"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/d2b8c0ec-55a0-42ac-ba79-89f03b31fc45/content",
+    "attributes": {
+      "Hand Dryer Model": "2be6691a-a220-4b2b-b6a1-494ef3d0c3fc",
+      "Hand Dryer Finish": "e0cc4fc1-d3cd-4452-bae0-e05aae85356e"
+    },
+    "family": "EHD-410"
+  },
+  {
+    "name": "EHD-420A BN",
+    "price": 3230,
+    "description": "EHD-420A BN",
+    "type": "Hand Dryer",
+    "labels": [
+      "daattribute: ZZ_DRYER_MODEL",
+      "finish: Brushed Nickel",
+      "materialnum: 33660013",
+      "finishingcatalogid: 3ef6ac26-05c6-41eb-a6f4-d590751e03d1",
+      "collection: Rush St",
+      "powertype: Plug-in",
+      "keywords: rush"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/fdf900c0-36a4-4c76-a6a0-3924834bd247/content",
+    "attributes": {
+      "Hand Dryer Model": "dd5e9658-b6b2-4a30-96d5-37b563b2c599",
+      "Hand Dryer Finish": "3ef6ac26-05c6-41eb-a6f4-d590751e03d1"
+    },
+    "family": "EHD-420"
+  },
+  {
+    "name": "EHD-420A PB",
+    "price": 3230,
+    "description": "EHD-420A PB",
+    "type": "Hand Dryer",
+    "labels": [
+      "daattribute: ZZ_DRYER_MODEL",
+      "finish: Polished Brass",
+      "materialnum: 33660016",
+      "finishingcatalogid: e8df26f3-52da-48bd-a5fe-d9673799f6fa",
+      "collection: Rush St",
+      "powertype: Plug-in",
+      "keywords: rush"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/f538d27d-15fa-4d7c-9807-9004d898aced/content",
+    "attributes": {
+      "Hand Dryer Model": "dd5e9658-b6b2-4a30-96d5-37b563b2c599",
+      "Hand Dryer Finish": "e8df26f3-52da-48bd-a5fe-d9673799f6fa"
+    },
+    "family": "EHD-420"
+  },
+  {
+    "name": "EHD-420A GR",
+    "price": 3230,
+    "description": "EHD-420A GR",
+    "type": "Hand Dryer",
+    "labels": [
+      "daattribute: ZZ_DRYER_MODEL",
+      "finish: Graphite",
+      "materialnum: 33660014",
+      "finishingcatalogid: 39f3383c-3d0c-41d3-b675-ca7c680c2e31",
+      "collection: Rush St",
+      "powertype: Plug-in",
+      "keywords: rush"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/bcbd51ae-697e-45d7-8cad-caf88698d8fb/content",
+    "attributes": {
+      "Hand Dryer Model": "dd5e9658-b6b2-4a30-96d5-37b563b2c599",
+      "Hand Dryer Finish": "39f3383c-3d0c-41d3-b675-ca7c680c2e31"
+    },
+    "family": "EHD-420"
+  },
+  {
+    "name": "EHD-420 SF",
+    "price": 3230,
+    "description": "EHD-420 SF",
+    "type": "Hand Dryer",
+    "labels": [
+      "daattribute: ZZ_DRYER_MODEL",
+      "finish: Brushed Stainless",
+      "materialnum: 33660015",
+      "finishingcatalogid: c095c9a6-5884-43ae-8fb8-2dae9af9d0f2",
+      "collection: Rush St",
+      "powertype: Plug-in",
+      "keywords: rush"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/d9d6ed12-9b6a-4c8d-86a7-00310642f447/content",
+    "attributes": {
+      "Hand Dryer Model": "dd5e9658-b6b2-4a30-96d5-37b563b2c599",
+      "Hand Dryer Finish": "c095c9a6-5884-43ae-8fb8-2dae9af9d0f2"
+    },
+    "family": "EHD-420"
+  },
+  {
+    "name": "EHD-420 CP",
+    "price": 2485,
+    "description": "EHD-420 CP",
+    "type": "Hand Dryer",
+    "labels": [
+      "daattribute: ZZ_DRYER_MODEL",
+      "finish: Chrome Plated",
+      "materialnum: 33660012",
+      "finishingcatalogid: e0cc4fc1-d3cd-4452-bae0-e05aae85356e",
+      "collection: Rush St",
+      "powertype: Plug-in",
+      "keywords: rush"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/9f62f10a-c514-4657-8f5d-44b8b129758a/content",
+    "attributes": {
+      "Hand Dryer Model": "dd5e9658-b6b2-4a30-96d5-37b563b2c599",
+      "Hand Dryer Finish": "e0cc4fc1-d3cd-4452-bae0-e05aae85356e"
+    },
+    "family": "EHD-420"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Polished Chrome",
+    "price": 0,
+    "description": "Polished Chrome",
+    "type": "Mirror Finish",
+    "labels": [
+      "huecss: background-color: #E0E5E9;"
+    ],
+    "imageUrl": "",
+    "attributes": {
+      "Mirror Finish": "8364dee9-1605-4a18-a5b3-689a41ec1452"
+    },
+    "family": ""
+  },
+  {
+    "name": "Graphite",
+    "price": 0,
+    "description": "Graphite",
+    "type": "Mirror Finish",
+    "labels": [
+      "huecss: background-color: #000000;"
+    ],
+    "imageUrl": "",
+    "attributes": {
+      "Mirror Finish": "752bacac-1b37-4640-b22c-1fcc6743ce7a"
+    },
+    "family": ""
+  },
+  {
+    "name": "Brushed Nickel",
+    "price": 0,
+    "description": "Brushed Nickel",
+    "type": "Mirror Finish",
+    "labels": [
+      "huecss: background-color: #E3DFD7;"
+    ],
+    "imageUrl": "",
+    "attributes": {
+      "Mirror Finish": "dea3451d-05f5-4cac-b93a-0174c5444a07"
+    },
+    "family": ""
+  }
+]

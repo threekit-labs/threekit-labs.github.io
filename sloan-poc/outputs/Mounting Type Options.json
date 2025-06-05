@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Angle Brackets",
+    "price": 0,
+    "description": "These mounting brackets will attach to the wall as well as up under the sink. It will create a \"floating look\". If soap dispenser is selected the soap bottle will be visible.",
+    "type": "Mounting Type",
+    "labels": [
+      "daattribute: ZZ_MOUNTING_TYPE",
+      "davalue: ANGLE_BRACKETS",
+      "hide: hideAD"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/da361759-8ac6-40f6-aabd-a9079ee8a270/content",
+    "attributes": {
+      "Mounting Type": ""
+    },
+    "family": ""
+  },
+  {
+    "name": "Angled Stainless Steel Enclosure",
+    "price": 0,
+    "description": "This enclosure type mounts to the wall and has angled stainless steel panels. The panels can be easily opened by depressing the two buttons on the bottom of the enclosure and pulling the panels up. There are hinges on the panels so they will remain attached. As the panels are opened they will engage with a magnet under the sink that will hold them open. Push down gently on the panels to release the magnet the close.",
+    "type": "Mounting Type",
+    "labels": [
+      "daattribute: ZZ_MOUNTING_TYPE",
+      "davalue: ANGLED_HOLD_OPEN"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/2b911fb1-762b-4ed1-ab79-6f3a2f991c01/content",
+    "attributes": {
+      "Mounting Type": ""
+    },
+    "family": ""
+  },
+  {
+    "name": "Vertical Cabinet Style Laminated Doors",
+    "price": 0,
+    "description": "This enclosure type mounts to the wall and has laminated cabinet style doors. The door can be easily opened by grabbing the bottom of the door and swinging open to one side.",
+    "type": "Mounting Type",
+    "labels": [
+      "daattribute: ZZ_MOUNTING_TYPE",
+      "davalue: VERTICAL_CABINET_FRONT"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/22793cf5-3ce1-40ba-ac61-016ff16572c8/content",
+    "attributes": {
+      "Mounting Type": ""
+    },
+    "family": ""
+  },
+  {
+    "name": "Vertical Stainless Steel Enclosure",
+    "price": 0,
+    "description": "This enclosure type mounts to the wall and has vertical stainless steel panels. The panels can be easily opened by depressing the two buttons on the bottom of the enclosure and pulling the panels up. There are hinges on the panels so they will remain attached. As the panels are opened they will engage with a magnet under the sink that will hold them open. Push down gently on the panels to release the magnet the close.",
+    "type": "Mounting Type",
+    "labels": [
+      "daattribute: ZZ_MOUNTING_TYPE",
+      "davalue: VERTICAL_HOLD_OPEN"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/ddd5fb82-e5ae-430d-8482-e94f7a66c1be/content",
+    "attributes": {
+      "Mounting Type": ""
+    },
+    "family": ""
+  }
+]

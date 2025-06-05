@@ -1,0 +1,223 @@
+[
+  {
+    "name": "Almond Leather",
+    "price": 0,
+    "description": "Almond Leather",
+    "type": "Laminate Color",
+    "labels": [
+      "daattribute: ZZ_LAMINATE_COLOR",
+      "davalue: ALMOND LEATHER",
+      "materialtag: wilsonart",
+      "colortag: Neutral"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/3bf1c16e-1e67-411c-bd8a-6365a1b1b6c5/content",
+    "attributes": {
+      "Laminate Color": "15b09525-69f9-498f-88a2-8dd46462a9ed"
+    },
+    "family": "wilsonart"
+  },
+  {
+    "name": "Amber Cherry",
+    "price": 0,
+    "description": "Amber Cherry",
+    "type": "Laminate Color",
+    "labels": [
+      "daattribute: ZZ_LAMINATE_COLOR",
+      "davalue: AMBER CHERRY",
+      "materialtag: wilsonart",
+      "colortag: Amber/Orange"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/8195566c-269a-4ce9-8174-9383ba77e194/content",
+    "attributes": {
+      "Laminate Color": "0aafe349-906f-4f62-b38f-4e15ff4bf9fb"
+    },
+    "family": "wilsonart"
+  },
+  {
+    "name": "Asian Night",
+    "price": 0,
+    "description": "Asian Night",
+    "type": "Laminate Color",
+    "labels": [
+      "daattribute: ZZ_LAMINATE_COLOR",
+      "davalue: ASIAN NIGHT",
+      "materialtag: wilsonart",
+      "colortag: Black/Grey"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/2637214c-616b-46af-b8c4-56a0c0d8b612/content",
+    "attributes": {
+      "Laminate Color": "7d519495-dd51-4c67-ae24-7b0120b22d5a"
+    },
+    "family": "wilsonart"
+  },
+  {
+    "name": "Ashbee Oak",
+    "price": 0,
+    "description": "Ashbee Oak",
+    "type": "Laminate Color",
+    "labels": [
+      "daattribute: ZZ_LAMINATE_COLOR",
+      "davalue: ASHBEE OAK",
+      "materialtag: wilsonart",
+      "colortag: Neutral"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/6482cdbc-feb1-4c68-b628-bbe2109474fc/content",
+    "attributes": {
+      "Laminate Color": "0bf796c7-185c-4ed2-aef0-b9cde2afc0b3"
+    },
+    "family": "wilsonart"
+  },
+  {
+    "name": "Asian Sun",
+    "price": 0,
+    "description": "Asian Sun",
+    "type": "Laminate Color",
+    "labels": [
+      "daattribute: ZZ_LAMINATE_COLOR",
+      "davalue: ASIAN SUN",
+      "materialtag: wilsonart",
+      "colortag: Brown"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/8172a5e7-659d-4ccf-96c8-de243d5bffe7/content",
+    "attributes": {
+      "Laminate Color": "50cbad6a-e5c0-4154-831c-c8702e855736"
+    },
+    "family": "wilsonart"
+  },
+  {
+    "name": "Atlantis",
+    "price": 0,
+    "description": "Atlantis",
+    "type": "Laminate Color",
+    "labels": [
+      "daattribute: ZZ_LAMINATE_COLOR",
+      "davalue: ATLANTIS",
+      "materialtag: wilsonart",
+      "colortag: Blue"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/efe9246c-6a48-4eaf-aa62-7a174da4e793/content",
+    "attributes": {
+      "Laminate Color": "415d867c-291e-453d-8d13-9cd04db4376b"
+    },
+    "family": "wilsonart"
+  },
+  {
+    "name": "Beigewood",
+    "price": 0,
+    "description": "Beigewood",
+    "type": "Laminate Color",
+    "labels": [
+      "daattribute: ZZ_LAMINATE_COLOR",
+      "davalue: BEIGEWOOD",
+      "materialtag: wilsonart",
+      "colortag: Yellow/Gold"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/0cb2a76d-83e4-46bc-8ad8-50f833357e43/content",
+    "attributes": {
+      "Laminate Color": "170ad423-9bb0-4586-b1da-3e3edf4851fc"
+    },
+    "family": "wilsonart"
+  },
+  {
+    "name": "Black Velvet",
+    "price": 0,
+    "description": "Black Velvet",
+    "type": "Laminate Color",
+    "labels": [
+      "daattribute: ZZ_LAMINATE_COLOR",
+      "davalue: BLACK VELVET",
+      "materialtag: wilsonart",
+      "colortag: Black/Grey"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/675d35ec-7a38-4f88-becb-ab290240bf81/content",
+    "attributes": {
+      "Laminate Color": "5cc0c0f2-1260-4233-b67d-5734e726c1e5"
+    },
+    "family": "wilsonart"
+  },
+  {
+    "name": "Black",
+    "price": 0,
+    "description": "Black",
+    "type": "Laminate Color",
+    "labels": [
+      "daattribute: ZZ_LAMINATE_COLOR",
+      "davalue: BLACK",
+      "materialtag: wilsonart",
+      "colortag: Black/Grey"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/6b39824e-65a2-41c5-afe2-e5b0743fe578/content",
+    "attributes": {
+      "Laminate Color": "ff95bab3-cbb7-4056-8628-4c2063e286a7"
+    },
+    "family": "wilsonart"
+  },
+  {
+    "name": "Fawn Cypress",
+    "price": 0,
+    "description": "Fawn Cypress",
+    "type": "Laminate Color",
+    "labels": [
+      "daattribute: ZZ_LAMINATE_COLOR",
+      "davalue: FAWN CYPRESS",
+      "materialtag: wilsonart",
+      "colortag: Brown"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/832fb1a7-3518-454f-be48-8ffdcb2e8677/content",
+    "attributes": {
+      "Laminate Color": "ff5fe2af-9c04-411d-8a7d-248f4e368d71"
+    },
+    "family": "wilsonart"
+  },
+  {
+    "name": "Landmark Wood",
+    "price": 0,
+    "description": "Landmark Wood",
+    "type": "Laminate Color",
+    "labels": [
+      "daattribute: ZZ_LAMINATE_COLOR",
+      "davalue: LANDMARK WOOD",
+      "materialtag: wilsonart",
+      "colortag: Brown"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/578aa854-2860-4bb5-8669-0213bf420b39/content",
+    "attributes": {
+      "Laminate Color": "43aa36a6-ca57-4bee-8c7a-291f90ddc482"
+    },
+    "family": "wilsonart"
+  },
+  {
+    "name": "New Age Oak",
+    "price": 0,
+    "description": "New Age Oak",
+    "type": "Laminate Color",
+    "labels": [
+      "daattribute: ZZ_LAMINATE_COLOR",
+      "davalue: NEW AGE OAK",
+      "materialtag: wilsonart",
+      "colortag: Yellow/Gold"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/ac708a19-138d-435f-8a1a-14e72b7dabe9/content",
+    "attributes": {
+      "Laminate Color": "e3fe45d8-2ba2-4ff9-a098-b5d5c6e609f1"
+    },
+    "family": "wilsonart"
+  },
+  {
+    "name": "Ruskin Oak",
+    "price": 0,
+    "description": "Ruskin Oak",
+    "type": "Laminate Color",
+    "labels": [
+      "daattribute: ZZ_LAMINATE_COLOR",
+      "davalue: RUSKIN OAK",
+      "materialtag: wilsonart",
+      "colortag: Yellow/Gold"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/files/3a6a285b-04ba-4052-b592-60ea5e6fa01d/content",
+    "attributes": {
+      "Laminate Color": "6fe2eedd-4af6-4eb0-b790-6151d2734eeb"
+    },
+    "family": "wilsonart"
+  }
+]

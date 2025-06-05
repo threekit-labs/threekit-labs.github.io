@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Terrazzo",
+    "price": 0,
+    "description": "TERRAZZO",
+    "type": "Floor Finishes",
+    "labels": [
+      "daattribute: ZZ_FLOOR"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/assets/thumbnail/135d0885-f196-4bfd-b0a5-55f68fc3f0e3?orgId=46deed25-0f34-4f72-9ad5-7c91df246095",
+    "attributes": {
+      "Floor Finishes": "b65974fc-b0c3-4d47-a24d-c99d6f91254b"
+    },
+    "family": ""
+  },
+  {
+    "name": "Wide White Tile",
+    "price": 0,
+    "description": "WIDE WHITE TILE",
+    "type": "Floor Finishes",
+    "labels": [
+      "daattribute: ZZ_FLOOR"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/assets/thumbnail/c03686c2-cac3-4a4f-82dd-7305d9d84e5c?orgId=46deed25-0f34-4f72-9ad5-7c91df246095",
+    "attributes": {
+      "Floor Finishes": "1bf6c41e-58c9-43bd-ac67-bdf6a974c713"
+    },
+    "family": ""
+  },
+  {
+    "name": "Light Concrete",
+    "price": 0,
+    "description": "LIGHT CONCRETE",
+    "type": "Floor Finishes",
+    "labels": [
+      "daattribute: ZZ_FLOOR"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/assets/thumbnail/2e6bd9d2-07a1-4d33-ad23-cac8bfd64537?orgId=46deed25-0f34-4f72-9ad5-7c91df246095",
+    "attributes": {
+      "Floor Finishes": "39cc6356-f940-402e-a3ee-4b6c73d59268"
+    },
+    "family": ""
+  },
+  {
+    "name": "Light Gray Granite",
+    "price": 0,
+    "description": "LIGHT GRAY GRANITE",
+    "type": "Floor Finishes",
+    "labels": [
+      "daattribute: ZZ_FLOOR"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/assets/thumbnail/ea343a36-5279-452f-aec5-f3c3180a4286?orgId=46deed25-0f34-4f72-9ad5-7c91df246095",
+    "attributes": {
+      "Floor Finishes": "919c3e98-26f4-49f1-84b6-96a4e5e1d8e1"
+    },
+    "family": ""
+  },
+  {
+    "name": "Dark Gray Granite",
+    "price": 0,
+    "description": "DARK GRAY GRANITE",
+    "type": "Floor Finishes",
+    "labels": [
+      "daattribute: ZZ_FLOOR"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/assets/thumbnail/417e37f2-e31f-4c38-a4d2-6502c2f77054?orgId=46deed25-0f34-4f72-9ad5-7c91df246095",
+    "attributes": {
+      "Floor Finishes": "b685ed0d-9a72-433a-a0cc-1294cd18c76b"
+    },
+    "family": ""
+  },
+  {
+    "name": "Wood Staggered Tile",
+    "price": 0,
+    "description": "WOOD STAGGERED TILE",
+    "type": "Floor Finishes",
+    "labels": [
+      "daattribute: ZZ_FLOOR"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/assets/thumbnail/6bf2eff4-e61d-476c-908c-7e3a36dd68e7?orgId=46deed25-0f34-4f72-9ad5-7c91df246095",
+    "attributes": {
+      "Floor Finishes": "6f486d5f-2ed9-4ad5-b686-748ea7d92d4d"
+    },
+    "family": ""
+  },
+  {
+    "name": "Stone Tile",
+    "price": 0,
+    "description": "STONE TILE",
+    "type": "Floor Finishes",
+    "labels": [
+      "daattribute: ZZ_FLOOR"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/assets/thumbnail/04eb178e-359d-45b5-939f-517bb0a88ec8?orgId=46deed25-0f34-4f72-9ad5-7c91df246095",
+    "attributes": {
+      "Floor Finishes": "5092fa40-c713-413d-a64c-7efb4d40dd39"
+    },
+    "family": ""
+  },
+  {
+    "name": "Dark Concrete",
+    "price": 0,
+    "description": "DARK CONCRETE",
+    "type": "Floor Finishes",
+    "labels": [
+      "daattribute: ZZ_FLOOR"
+    ],
+    "imageUrl": "https://preview.threekit.com/api/assets/thumbnail/7115e6c5-f699-44ce-9746-9556dcb563e8?orgId=46deed25-0f34-4f72-9ad5-7c91df246095",
+    "attributes": {
+      "Floor Finishes": "877d8788-da8e-4496-bab3-25d899ec53d6"
+    },
+    "family": ""
+  }
+]
